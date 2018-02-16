@@ -1,0 +1,57 @@
+/* Found at: https://www.w3schools.com/css/css_templates.asp */
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    background-color: #EEE;
+}
+
+header {
+    background-color: #DDD;
+    margin-top: 45px;
+    padding: 30px;
+    text-align: center;
+}
+
+.column {
+    float: left;
+    padding: 3%;
+    background-color: #EEE;
+    min-height: 200px;
+}
+
+.column.left {
+    width: 75%;
+}
+
+.column.right {
+    width: 25%;
+}
+
+.column.centered {
+    width: 100%;
+}
+
+.row {
+    margin: auto;
+    width: 80%;
+    /*min-height: 70vh;*/
+}
+
+.row:after {
+    content: "";
+    display: block;
+    clear: both;
+}
+
+footer {
+    background-color: #EEE;
+    padding: 10px;
+    text-align: center;
+    /*position: relative;
+    bottom: 0px;
+    width: 100%;*/
+}

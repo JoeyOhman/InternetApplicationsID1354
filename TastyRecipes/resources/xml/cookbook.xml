@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cookbook version="1">
+    <recipe>
+        <title>Meatballs</title>
+        <imagepath>
+            ../../resources/images/meatballs.jpg
+        </imagepath>
+        <description>
+            Makes about 30 delicious meatballs.
+        </description>
+        <ingredient>
+            <li>1 pound beef</li>
+            <li>1/2 cup milk</li>
+            <li>1/2 cup fine bread crumbs</li>
+            <li>1 egg</li>
+            <li>1/2 cup finely chopped onion</li>
+            <li>1/2 cup Parmesan cheese</li>
+            <li>1 clove garlic</li>
+            <li>1 teaspoon salt</li>
+            <li>lots of black pepper</li>
+        </ingredient>
+        <recipetext>
+            <li>
+                Combine the milk and bread crumbs: 
+                Pour the milk over the bread crumbs in a small bowl and set aside while preparing the rest of the meatball mix. 
+                The bread crumbs will absorb the milk and become soggy.
+            </li>
+            <li>
+                Whisk the egg, salt, pepper, Parmesan, and parsley: 
+                Whisk the egg in a large bowl until blended. 
+                Whisk in the salt and a generous quantity of black pepper, then whisk in the Parmesan and parsley.
+            </li>
+            <li>
+                Combine the egg and ground meat: Add the meat to the egg mixture. 
+                Use your hands to thoroughly mix the egg into the ground meat.
+            </li>
+            <li>
+                Add the onions and soaked bread crumbs: Add the onions, garlic, and soaked bread crumbs to the meat. 
+                Mix them thoroughly into the meat with your fingers. 
+                Try not to overwork the meat; pinch the meat between your fingers rather than kneading it.
+            </li>
+            <li>
+                Form the meat into meat balls: 
+                Pinch off a piece of the meat mixture and gently roll between your hands to form 1 1/2-inch meatballs. 
+                Continue shaping until all the meat is used.
+            </li>
+            <li> 
+                Arrange the meatballs spaced slightly apart on a baking sheet. 
+                Cook under the broiler for 20 to 25 minutes or bake at 400°F for 25 to 30 minutes. 
+                (Watch closely if cooking meatballs made with lean meat.) 
+                The meatballs are done when cooked through and the outside is browned, 
+                and when they register 165°F in the middle on an instant read thermometer. 
+                Serve immediately.
+            </li>
+        </recipetext>
+    </recipe>
+    
+    <recipe>
+        <title>Pancakes</title>
+        <imagepath>
+            ../../resources/images/pancakes.jpg
+        </imagepath>
+        <description>
+            Makes about 12 delicious pancakes.
+        </description>
+        <ingredient>
+            <li>1 1/4 cup milk</li>
+            <li>3 table spoons butter, melted</li>
+            <li>1 egg</li>
+            <li>1 cup all-purpose flour</li>
+            <li>2 table spoons sugar</li>
+            <li>2 1/2 tea spoons baking powder</li>
+            <li>1/2 tea spoon salt</li>
+        </ingredient>
+        <recipetext>
+            <li>
+                In large bowl, whisk flour, sugar, baking powder and salt. 
+                Add milk, butter and egg; stir until flour is moistened.
+            </li>
+            <li>
+                Heat 12-inch nonstick skillet or griddle over medium heat until drop of water sizzles; 
+                brush lightly with oil. 
+                In batches, scoop batter by scant 1/4-cupfuls into skillet, spreading to 3 1/2 inches each. 
+                Cook 2 to 3 minutes or until bubbly and edges are dry. 
+                With wide spatula, turn; cook 2 minutes more or until golden. 
+                Transfer to platter or keep warm on a cookie sheet in 225°F oven.
+            </li>
+            <li>
+                Repeat with remaining batter, brushing griddle with more oil if necessary.
+            </li>
+        </recipetext>
+    </recipe>
+</cookbook>
